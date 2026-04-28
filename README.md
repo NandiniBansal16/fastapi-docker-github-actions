@@ -1,7 +1,7 @@
 # FASTAPI-DOCKER-GITHUB-ACTIONS
 
 [![example workflow](https://github.com/NandiniBansal16/fastapi-docker-github-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/NandiniBansal16/fastapi-docker-github-actions/actions/workflows/ci.yml/badge.svg)
-
+![CI/CD Pipeline](https://github.com/NandiniBansal16/fastapi-docker-github-actions/raw/main/assets/fastapi-docker-github-actions.png)
 ## Overview 🔮
 
 Welcome to the FastAPI-Docker-GitHub-Actions Lab! This repository serves as an educational example of a CI/CD project that demonstrates the usage of GitHub Actions for deploying a simple FastAPI server. Key components include:
